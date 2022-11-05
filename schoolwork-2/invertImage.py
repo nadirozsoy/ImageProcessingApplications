@@ -1,3 +1,6 @@
+#02185076005
+#Nadir Özsoy
+
 #Invert Image
 
 import cv2
